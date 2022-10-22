@@ -6,7 +6,7 @@
 	* File...: Skins.lua
 	* Author.: dlecina
 
-	Squat Skin
+	Pointy Skin
 
 ]]
 
@@ -19,6 +19,12 @@ local AddOn = ...
 
 -- Skin Info
 local Version = GetAddOnMetadata(AddOn, "Version")
+local Websites = {
+	"https://github.com/dlecina/Masque_Pointy",
+	"https://www.wowace.com/projects/masque-pointy",
+	"https://www.curseforge.com/wow/addons/masque-pointy",
+	"https://www.wowinterface.com/downloads/infoXXXX",
+}
 
 MSQ:AddSkin("Pointy - Up", {
 	Group = "Pointy",
