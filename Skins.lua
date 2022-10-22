@@ -1,7 +1,21 @@
+--[[
+
+	This file is part of 'Masque: Pointy', an add-on for World of Warcraft. For license information,
+	please see the included License.txt file or visit https://github.com/dlecina/Masque_Pointy.
+
+	* File...: Skins.lua
+	* Author.: dlecina
+
+	Squat Skin
+
+]]
+
+-- GLOBALS: GetAddOnMetadata, LibStub
+
 local MSQ = LibStub and LibStub("Masque", true)
 if not MSQ then return end
 
-local AddOn, Core = ...
+local AddOn = ...
 
 -- Skin Info
 local Version = GetAddOnMetadata(AddOn, "Version")
@@ -11,6 +25,10 @@ MSQ:AddSkin("Pointy - Up", {
 	Order = 1,
 	Shape = "Square",
 	Masque_Version = 11307,
+
+	-- Info
+	Version = Version,
+	Websites = Websites,
 
 	Backdrop = {
 		Texture = [[Interface\AddOns\Masque_Pointy\Textures\PointyUp\normal]],
@@ -322,6 +340,10 @@ MSQ:AddSkin("Pointy - Down", {
 	Shape = "Square",
 	Masque_Version = 11307,
 
+	-- Info
+	Version = Version,
+	Websites = Websites,
+
 	Backdrop = {
 		Texture = [[Interface\AddOns\Masque_Pointy\Textures\PointyDown\normal]],
 		Color = {1, 1, 1, 1},
@@ -632,6 +654,10 @@ MSQ:AddSkin("Pointy Slim - Up", {
 	Shape = "Square",
 	Masque_Version = 11307,
 
+	-- Info
+	Version = Version,
+	Websites = Websites,
+
 	Backdrop = {
 		Texture = [[Interface\AddOns\Masque_Pointy\Textures\PointySlimUp\normal]],
 		Color = {1, 1, 1, 1},
@@ -941,6 +967,10 @@ MSQ:AddSkin("Pointy Slim - Down", {
 	Order = 4,
 	Shape = "Square",
 	Masque_Version = 11307,
+
+	-- Info
+	Version = Version,
+	Websites = Websites,
 
 	Backdrop = {
 		Texture = [[Interface\AddOns\Masque_Pointy\Textures\PointySlimDown\normal]],
