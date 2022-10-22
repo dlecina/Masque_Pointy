@@ -1,0 +1,22 @@
+## Interface: 90207
+## Interface-Retail: 90207
+## Interface-Classic: 11403
+## Interface-BCC: 20504
+## Interface-Wrath: 30400
+
+## Title: Masque: Pointy
+## Notes: Pointy Skin for Masque, inspired by GW2 and FFXIV
+
+## Version: @project-version@
+## Author: AllLucky7s
+## Dependencies: Masque
+
+## X-Website: https://github.com/dlecina/Masque_Pointy
+## X-Category: Interface Enhancements
+## X-Credits: AllLucky7s
+## X-Curse-Project-ID: 690853
+## X-WoWI-ID: XXXX
+## X-Wago-ID: 9rN4OjGD
+
+# Skins
+Skins.lua
