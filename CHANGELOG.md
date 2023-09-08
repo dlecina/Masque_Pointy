@@ -1,3 +1,8 @@
+## 1.0.3
+
+- Updated the `Interface` version for _Retail_ to `100107`.
+- Updated the `Interface` version for _Wrath of the Lich King Classic_ to `30402`.
+
 ## 1.0.2
 
 - Add .luacheckrc

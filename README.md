@@ -64,8 +64,6 @@ To help translate this add-on, use the [issue tracker].
 - [Masque][Masque]
 - [CurseForge][CurseForge]
 - [Wago][Wago]
-- [WoW Ace][WoW Ace]
-- [WoW Interface]
 
 [Links]: #
 
@@ -83,8 +81,6 @@ To help translate this add-on, use the [issue tracker].
 [CurseForge]: https://www.curseforge.com/wow/addons/masque-pointy (View on CurseForge)
 [Wago]: https://addons.wago.io/addons/masque-pointy (View on Wago Addons)
 [GitHub]: https://github.com/dlecina/Masque_Pointy (View on GitHub)
-[WoW Ace]: https://www.wowace.com/projects/masque-pointy (View on WoW Ace)
-[WoW Interface]: https://www.wowinterface.com/downloads/infoXXXX (View on WoW Interface)
 
 [Top]: #Top (Top of the Page)
 
