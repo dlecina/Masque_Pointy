@@ -1,3 +1,8 @@
+## 1.0.4
+
+- Fixed `GetAddOnMetadata` for 11.02
+- Updated the `Interface` version
+
 ## 1.0.3
 
 - Updated the `Interface` version for _Retail_ to `100107`.
